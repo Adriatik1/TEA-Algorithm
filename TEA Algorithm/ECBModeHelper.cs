@@ -22,7 +22,7 @@ namespace TEA_Algorithm
           
 
             var imgIn = new FileStream(@"..\..\..\TestImages\Tux.bmp", FileMode.OpenOrCreate);
-            var imgOut = new FileStream(@"..\..\..\TestImages\CBCEncryptedTux.bmp", FileMode.OpenOrCreate);
+            var imgOut = new FileStream(@"..\..\..\TestImages\ECBEncryptedTux.bmp", FileMode.OpenOrCreate);
 
             var dataIn = new BinaryReader(imgIn);
             var dataOut = new BinaryWriter(imgOut);
