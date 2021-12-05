@@ -1,11 +1,24 @@
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\bin\Debug\netcoreapp3.0\TEA Algorithm.exe
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\bin\Debug\netcoreapp3.0\TEA Algorithm.deps.json
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\bin\Debug\netcoreapp3.0\TEA Algorithm.runtimeconfig.json
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\bin\Debug\netcoreapp3.0\TEA Algorithm.runtimeconfig.dev.json
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\bin\Debug\netcoreapp3.0\TEA Algorithm.dll
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\bin\Debug\netcoreapp3.0\TEA Algorithm.pdb
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\obj\Debug\netcoreapp3.0\TEA Algorithm.csprojAssemblyReference.cache
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\obj\Debug\netcoreapp3.0\TEA Algorithm.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\obj\Debug\netcoreapp3.0\TEA Algorithm.AssemblyInfo.cs
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\obj\Debug\netcoreapp3.0\TEA Algorithm.dll
-C:\Users\User\source\repos\TEA Algorithm\TEA Algorithm\obj\Debug\netcoreapp3.0\TEA Algorithm.pdb
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.exe
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.deps.json
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.runtimeconfig.json
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.runtimeconfig.dev.json
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.dll
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.pdb
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.csprojAssemblyReference.cache
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.AssemblyInfoInputs.cache
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.AssemblyInfo.cs
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.dll
+C:/Users/User/source/repos/TEA Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.pdb
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.deps.json
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.runtimeconfig.json
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.runtimeconfig.dev.json
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.dll
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/bin/Debug/netcoreapp3.0/TEA Algorithm.pdb
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.csproj.AssemblyReference.cache
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.AssemblyInfoInputs.cache
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.AssemblyInfo.cs
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.csproj.CoreCompileInputs.cache
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.dll
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.pdb
+/Users/nderon/Projects/tea/TEA-Algorithm/TEA Algorithm/obj/Debug/netcoreapp3.0/TEA Algorithm.genruntimeconfig.cache
