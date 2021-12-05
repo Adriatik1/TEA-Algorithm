@@ -8,8 +8,11 @@ namespace TEA_Algorithm
         {
             Console.WriteLine("DBD Encryption...");
             CBCModeHelper.CBCEncrypt();
-            Console.WriteLine("DBD Decryption...");
-            CBCModeHelper.CBCDecrypt();
+            //Console.WriteLine("DBD Decryption...");
+            //CBCModeHelper.CBCDecrypt();
+
+            Console.WriteLine("ECB Encryption...");
+            ECBModeHelper.ECBEncrypt();
         }
     }
 }
